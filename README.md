@@ -6,7 +6,7 @@ A live Markdown Previewer built with React and TypeScript for the FreeCodeCamp F
 
 ## 🔗 Live Demo
 
-https://fcc-markdown-previewer.vercel.app/
+
 
 ---
 
